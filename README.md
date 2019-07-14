@@ -1,4 +1,1 @@
-// Players with flag ignore in menu
-// -
-// Default: ""
-Master_Admin_Change_Team_Ignore_Flag ""
+Alliedmods topic - https://forums.alliedmods.net/showthread.php?p=2659021
