@@ -1,0 +1,72 @@
+"Phrases"
+{
+    "Chat_Tag"
+    {
+        "en"    "[{olive}Team{default}]"
+        "pl"    "[{olive}Drużyny{default}]"
+    }
+    "Move_Player"
+    {
+        "en"    "Move Player"
+        "pl"    "Przenieś Gracza"
+    }
+    "Choose_Player"
+    {
+        "en"    "Choose Player"
+        "pl"    "Wybierz Gracza"
+    }
+    "Select_Player_To_Move"
+    {
+        "en"    "Select player to move:"
+        "pl"    "Wybierz gracza do przeniesienia:"
+    }
+    "No_Players_Available"
+    {
+        "en"    "No players available"
+        "pl"    "Brak dostępnych graczy"
+    }
+    "Choose_Team"
+    {
+        "en"    "Choose Team"
+        "pl"    "Wybierz drużynę docelową:"
+    }
+    "Spectator"
+    {
+        "en"    "Spectator"
+        "pl"    "Obserwatorzy"
+    }
+    "Terrorists"
+    {
+        "en"    "Terrorists"
+        "pl"    "Terroryści"
+    }
+    "Counter_Terrorists"
+    {
+        "en"    "Counter-Terrorists"
+        "pl"    "Anty-Terroryści"
+    }
+    "Player_Moved"
+    {
+        "#format"	"{1:N},{2:s}"
+        "en"        "Player {orange}{1} {default}moved to team {gray}{2}"
+        "pl"        "Pomyślnie przeniesiono gracza {orange}{1} {default}do drużyny {gray}{2}"
+    }
+    "Admin_Moved"
+    {
+        "#format"	"{1:N},{2:s}"
+        "en"        "Admin {orange}{1} {default}moved you to team {gray}{2}"
+        "pl"        "Zostałeś przeniesiony przez admina {orange}{1} {default}do drużyny {gray}{2}"
+    }
+    "Already_In_Team"
+    {
+        "#format"	"{1:N},{2:s}"
+        "en"        "Player {orange}{1} {default}is already in team {gray}{2}"
+        "pl"        "Gracz {orange}{1} {default}znajduję się już w drużynie {gray}{2}"
+    }
+    "Player_Is_Unavailable"
+    {
+        "en"        "Player is unavailable"
+        "pl"        "Gracz jest nieosiągalny"
+    }
+}
+
